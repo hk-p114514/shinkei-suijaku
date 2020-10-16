@@ -2,7 +2,7 @@
 'use strict';
 
 
-let pairs = 9;
+let pairs = 7;
 let cards = [];
 const stage = document.getElementById('stage');
 
